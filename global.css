@@ -4,10 +4,10 @@ body {
 }
 
 :root {
- 
+  /* fonts */
   --font-be-vietnam-pro: "Be Vietnam Pro";
 
-  
+  /* font sizes */
   --font-size-lg: 18px;
   --font-size-xl: 20px;
   --font-size-29xl: 48px;
@@ -15,7 +15,7 @@ body {
   --font-size-3xl: 22px;
   --font-size-5xl: 24px;
 
-  
+  /* Colors */
   --white-97: #f7f7f8;
   --white-95: #f1f1f3;
   --absolute-white: #fff;
@@ -30,7 +30,7 @@ body {
   --orange-97: #fff9f0;
   --orange-90: #ffeacc;
 
-  
+  /* Gaps */
   --gap-31xl: 50px;
   --gap-11xl: 30px;
   --gap-sm: 14px;
@@ -43,7 +43,7 @@ body {
   --gap-281xl: 300px;
   --gap-mini: 15px;
 
- 
+  /* Paddings */
   --padding-81xl: 100px;
   --padding-11xl: 30px;
   --padding-sm: 14px;
@@ -58,7 +58,7 @@ body {
   --padding-3xs: 10px;
   --padding-base: 16px;
 
- 
+  /* Border radiuses */
   --br-5xs: 8px;
   --br-7xs: 6px;
   --br-xs: 12px;
